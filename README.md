@@ -61,7 +61,7 @@ aiops/
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/rifaldiusn/aiops-log-analyzer.git
-cd aiops
+cd aiops-log-analyzer
 ```
 
 ### 2. Configure Environment Variables
